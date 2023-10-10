@@ -13,7 +13,7 @@
          "deadline_date":"15/11/2023",			//data limite para terminar a task
          "dataFim":"",							//data em que a task foi dada como done
          "priority":"Alta",						//prioridade da task
-         "status":"Para fazer",					//status
+         "status":"Todo",					//status
          "user":{								//usuario em que a task esta vinculada
             "first_name":"Joao Pedro", 			//primeiro nome
             "last_name":"Cardoso",				//segundo nome
