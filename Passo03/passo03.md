@@ -1,5 +1,5 @@
 # Trabalho 01 - MongoDB (To-Do List) - João Pedro
-# Passo 02 - Validação de Dados 
+# Passo 03 - Criação do Banco de Dados e Coleção
 
 ```javascript
 
@@ -58,7 +58,7 @@ db.createCollection("todolist", {
                           bsonType: "date",
                           description: "Data maxima para realizacao da task deve ser preenchida e no formato date."
                         },
-                        dataFim: {
+                        data_fim: {
                           bsonType: "date",
                           description: "Data que a task foi finalizada deve ser no formato date."
                         },

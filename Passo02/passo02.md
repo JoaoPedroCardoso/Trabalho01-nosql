@@ -57,7 +57,7 @@ db.createCollection("todolist", {
                           bsonType: "date",
                           description: "Data maxima para realizacao da task deve ser preenchida e no formato date."
                         },
-                        dataFim: {
+                        data_fim: {
                           bsonType: "date",
                           description: "Data que a task foi finalizada deve ser no formato date."
                         },

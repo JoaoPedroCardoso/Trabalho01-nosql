@@ -3,15 +3,15 @@
 ```json
 {
    "name":"Pay4u", // nome do projeto
-   "start_date":"01/01/2023",  //data de inicio do projeto
-   "end_date":"01/12/2023", //data fim do projeto
+   "start_date":"2023-01-01T00:00:00Z",  //data de inicio do projeto
+   "end_date":"2023-12-25T00:00:00Z", //data fim do projeto
    "tasks":[   //Lista de tasks vinculadas ao projeto
       {
          "title":"Implementar tela de login",   //titulo da task
          "description":"Desenvolver a tela de login do sistema pay4to", //descricao da task
-         "start_date":"10/11/2023", //data de inicio da task
-         "deadline_date":"15/11/2023", //data limite para terminar a task
-         "dataFim":"", //data em que a task foi dada como done
+         "start_date":"2023-11-10T00:00:00Z", //data de inicio da task
+         "deadline_date":"2023-11-15T00:00:00Z", //data limite para terminar a task
+         "data_fim":"", //data em que a task foi dada como done
          "priority":"Alta", //prioridade da task
          "status":"Todo", //status
          "user":{  //usuario em que a task esta vinculada
