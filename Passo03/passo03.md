@@ -149,5 +149,8 @@ db.todolist.insertOne(
 }
 );
 
+//busca do dado:
+
+db.todolist.find()
 
 ``
