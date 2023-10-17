@@ -21,7 +21,8 @@
             "cell_phone":"34 991220033",  //telefone celular
             "skill":"Desenvolvedor BE", //skill do usuario
             "seniority":"Especialista"  //senioridade do usuario
-         }
+         },
+         "related_to" [] // Lista de task vinculada a task atual (repete o mesmo objeto da tasks)
       }
    ]
 }
